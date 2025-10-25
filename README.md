@@ -1,6 +1,3 @@
-I'd be glad to provide a comprehensive README.md file for your Stock Price Trend Prediction project.
-
-This README follows standard GitHub practices, covering the project's purpose, setup instructions, file structure, and results.
 
 📈 Stock Price Trend Prediction using LSTM
 Project Overview
